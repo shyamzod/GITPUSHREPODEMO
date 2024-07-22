@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|c:\\users\\chandrashekhar_n\\desktop\\task management project\\taskmanagerproject\\models\\taskmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|solutionrelative:models\\taskmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|c:\\users\\chandrashekhar_n\\desktop\\task management project\\taskmanagerproject\\models\\taskmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|solutionrelative:models\\taskmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|c:\\users\\chandrashekhar_n\\desktop\\task management project\\taskmanagerproject\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|c:\\users\\chandrashekhar_n\\desktop\\task management project\\taskmanagerproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|c:\\users\\chandrashekhar_n\\desktop\\task management project\\taskmanagerproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|c:\\users\\chandrashekhar_n\\desktop\\task management project\\taskmanagerproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|c:\\users\\chandrashekhar_n\\desktop\\task management project\\taskmanagerproject\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|c:\\users\\chandrashekhar_n\\desktop\\task management project\\taskmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|c:\\users\\chandrashekhar_n\\desktop\\task management project\\taskmanagerproject\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E342061-217C-4878-8AF0-592BF3EEAC8F}|TaskManagerProject.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManagementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Models\\TaskManagementSystem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskManagementSystem.cs",
+              "ToolTip": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Models\\TaskManagementSystem.cs",
+              "RelativeToolTip": "Models\\TaskManagementSystem.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:24:34.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:21:42.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T09:21:27.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:18:46.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Models\\TaskManagementContext.cs",
+              "RelativeDocumentMoniker": "Models\\TaskManagementContext.cs",
+              "ToolTip": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Models\\TaskManagementContext.cs",
+              "RelativeToolTip": "Models\\TaskManagementContext.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAUwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:18:42.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:12:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:12:03.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:07:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\chandrashekhar_n\\Desktop\\Task Management Project\\TaskManagerProject\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:39:23.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
